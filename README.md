@@ -82,7 +82,7 @@ This project was developed by:
 
 ## 📎 Acknowledgments
 - Dataset provided by The Cancer Imaging Archive (TCIA)
-- Developed as part of a Senior Project at Zayed University College of Technological Innovation
+- Developed as part of a Senior Project at Zayed University, College of Technological Innovation
 
 ## 🚀 How to Run  
 
