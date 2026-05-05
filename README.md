@@ -75,14 +75,14 @@ The goal is to support **clinical decision-making** and improve diagnostic accur
 
 ## 👩‍💻 Authors
 This project was developed by:
-Asma Almehairbi
-Alanood Alqemzi
-Fatima Saleh
+- Asma Almehairbi
+- Alanood Alqemzi
+- Fatima Saleh
 
 
-##📎 Acknowledgments
-Dataset provided by The Cancer Imaging Archive (TCIA)
-Developed as part of a Senior Project at Zayed University IT Department
+## 📎 Acknowledgments
+- Dataset provided by The Cancer Imaging Archive (TCIA)
+- Developed as part of a Senior Project at Zayed University College of Technological Innovation
 
 ## 🚀 How to Run  
 
